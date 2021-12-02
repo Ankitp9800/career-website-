@@ -1,0 +1,42 @@
+body{
+	background-color: antiquewhite;
+	
+}
+.reg_form{
+	font-size: 20px;
+	font-weight: 250;
+
+	box-sizing: border-box;
+	background-color: white;
+	width:40%;
+	margin-top: 6%;
+	margin-left: 30%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-color:#1f1f1f;
+	border-radius: 15px;
+	padding-left: 30px;
+}
+.reg_btn{
+	font-size: 25px;
+	margin: 20px 20px 0px 10px;
+	cursor: pointer;
+	background-color:blueviolet;
+	color: aqua;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+label{
+	font-family: sans-serif;
+	font-size: 18px;
+	font-style: italic;
+}
+input#name{
+	width: 250px;
+	border: 1px solid #aaa;
+	border-radius: 3px;
+	outline: 0;
+	padding: 7px;
+	background-color: #fff;
+	box-shadow: inset 1px 1px 5px rgba(0, 0,0,0.3);
+}
